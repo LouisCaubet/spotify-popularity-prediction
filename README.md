@@ -5,7 +5,10 @@ by Louis Caubet, 2022.
 ## Code
 
 Everything is contained in a Jupyter Notebook. 
-
+It requires the Captum library, so install it if you don't already have it. 
+```
+pip install captum
+```
 
 ## Datasets
 
